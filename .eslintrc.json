@@ -1,0 +1,6 @@
+{
+    "extends": "next",
+    "settings": {},
+    "dir": ["src/pages", "src/components", "src/helpers", "src/hooks", "src/styles"],
+    "rules": {}
+}
